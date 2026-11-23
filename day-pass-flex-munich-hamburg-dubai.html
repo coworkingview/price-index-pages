@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Day pass and flex desk medians — Munich, Hamburg and Dubai (November 2026)</title>
+  <meta name="description" content="Published day-pass and flex-desk medians for Munich, Hamburg and Dubai from the CoworkingView Price Index, November 2026, with sample sizes and a simple break-even.">
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; max-width: 42rem; margin: 2rem auto; padding: 0 1.2rem; line-height: 1.55; color: #1a1a1a; }
+    header img { height: 40px; width: auto; }
+    a { color: #0b57d0; }
+    .note { font-size: 0.92rem; color: #333; }
+    table { border-collapse: collapse; width: 100%; margin: 1.2rem 0; font-size: 0.95rem; }
+    th, td { text-align: left; border-bottom: 1px solid #ddd; padding: 0.4rem 0.5rem 0.4rem 0; vertical-align: top; }
+    th { font-weight: 700; }
+    caption { text-align: left; font-size: 0.92rem; color: #333; margin-bottom: 0.4rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <p><img src="logo.png" alt="CoworkingView"></p>
+    <h1>Day pass or flex desk: Munich, Hamburg and Dubai</h1>
+    <p class="note">A short data note from the <a href="https://www.coworkingview.com/en/tools/price-index">CoworkingView Price Index</a> · November 2026</p>
+  </header>
+
+  <p>A day pass is cheap if you only go in occasionally. A monthly flex desk is usually cheaper once you go in often enough. A simple way to find that turning point is to divide the city’s flex-desk median by its day-pass median. The result is a break-even in days per month. It is a guide, not a booking: the two medians can come from slightly different sets of buildings, and a membership may include credits that a day pass does not.</p>
+
+  <p>The figures below were read from the public Price Index API on 23 November 2026 (Europe/Berlin). The snapshot in the payload is dated 19 November 2026, 10:52 UTC. Only types with at least five published prices are shown.</p>
+
+  <table>
+    <caption>Published medians and a city-level break-even (flex desk ÷ day pass)</caption>
+    <thead>
+      <tr>
+        <th>City</th>
+        <th>Spaces (operators)</th>
+        <th>Day pass</th>
+        <th>Flex desk / month</th>
+        <th>Break-even</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://www.coworkingview.com/en/tools/price-index/munich">Munich</a></td>
+        <td>12 (7)</td>
+        <td>€45 <span class="note">(n=10, 10 spaces)</span></td>
+        <td>€399 <span class="note">(n=11, 11 spaces)</span></td>
+        <td>about 8.9 days</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.coworkingview.com/en/tools/price-index/hamburg">Hamburg</a></td>
+        <td>17 (8)</td>
+        <td>€38 <span class="note">(n=12, 10 spaces)</span></td>
+        <td>€297 <span class="note">(n=10, 10 spaces)</span></td>
+        <td>about 7.8 days</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.coworkingview.com/en/tools/price-index/dubai">Dubai</a></td>
+        <td>12 (5)</td>
+        <td>AED 120 <span class="note">(n=9, 9 spaces)</span></td>
+        <td>AED 999 <span class="note">(n=10, 10 spaces)</span></td>
+        <td>about 8.3 days</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>For context, a reserved fixed desk in the same snapshot has a median of €499 in Munich (n=8) and €499 in Hamburg (n=8), and AED 1,600 in Dubai (n=6). Those are a different product from the flex desk used in the break-even.</p>
+
+  <p>These are list prices that operators publish, not transaction prices, and VAT may or may not be included. Dubai figures are in dirhams and have not been converted. The method is described in the <a href="https://www.coworkingview.com/en/methodology">methodology</a>. Index figures are licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: please credit CoworkingView and keep a link to the live index. They are not a valuation of any named building.</p>
+
+  <p class="note"><a href="./">Back to the Price Index documentation</a></p>
+</body>
+</html>
