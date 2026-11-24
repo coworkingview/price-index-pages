@@ -1,0 +1,237 @@
+{
+  "title": "CoworkingView catalogue hub counts",
+  "asOf": "2026-11-24",
+  "timezone": "Europe/Berlin",
+  "source": "https://www.coworkingview.com/",
+  "priceIndex": "https://www.coworkingview.com/en/tools/price-index",
+  "priceIndexGeneratedAt": "2026-11-24T18:36:24.975Z",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "note": "Counts of live catalogue listings, excluding one Berlin space marked coming soon. Index sample sizes are the propertyCount/operatorCount from the public Price Index API. This file contains no product prices.",
+  "cities": [
+    {
+      "city": "Berlin",
+      "slug": "berlin",
+      "listedSpaces": 144,
+      "operators": 71,
+      "comingSoonExcluded": 1,
+      "indexSampleSpaces": 88,
+      "indexSampleOperators": 49,
+      "hubUrl": "https://www.coworkingview.com/en/coworking/berlin",
+      "districts": [
+        {
+          "name": "Mitte",
+          "spaces": 66
+        },
+        {
+          "name": "Friedrichshain-Kreuzberg",
+          "spaces": 29
+        },
+        {
+          "name": "Pankow",
+          "spaces": 19
+        },
+        {
+          "name": "Charlottenburg-Wilmersdorf",
+          "spaces": 11
+        },
+        {
+          "name": "Tempelhof-Schöneberg",
+          "spaces": 6
+        },
+        {
+          "name": "Neukölln",
+          "spaces": 6
+        },
+        {
+          "name": "Treptow-Köpenick",
+          "spaces": 4
+        },
+        {
+          "name": "Spandau",
+          "spaces": 1
+        },
+        {
+          "name": "Reinickendorf",
+          "spaces": 1
+        },
+        {
+          "name": "Outside city boroughs (Berlin Brandenburg Airport)",
+          "spaces": 1
+        }
+      ]
+    },
+    {
+      "city": "Munich",
+      "slug": "munich",
+      "listedSpaces": 33,
+      "operators": 13,
+      "indexSampleSpaces": 12,
+      "indexSampleOperators": 7,
+      "hubUrl": "https://www.coworkingview.com/en/coworking/munich",
+      "districts": [
+        {
+          "name": "Altstadt-Lehel",
+          "spaces": 12
+        },
+        {
+          "name": "Maxvorstadt",
+          "spaces": 4
+        },
+        {
+          "name": "Laim",
+          "spaces": 3
+        },
+        {
+          "name": "Ramersdorf-Perlach",
+          "spaces": 2
+        },
+        {
+          "name": "Berg am Laim",
+          "spaces": 2
+        },
+        {
+          "name": "Bogenhausen",
+          "spaces": 1
+        },
+        {
+          "name": "Schwanthalerhöhe",
+          "spaces": 1
+        },
+        {
+          "name": "Allach-Untermenzing",
+          "spaces": 1
+        },
+        {
+          "name": "Obergiesing-Fasangarten",
+          "spaces": 1
+        },
+        {
+          "name": "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+          "spaces": 1
+        },
+        {
+          "name": "Milbertshofen-Am Hart",
+          "spaces": 1
+        },
+        {
+          "name": "Schwabing-Freimann",
+          "spaces": 1
+        },
+        {
+          "name": "District not recorded",
+          "spaces": 3
+        }
+      ]
+    },
+    {
+      "city": "Madrid",
+      "slug": "madrid",
+      "listedSpaces": 64,
+      "operators": 21,
+      "indexSampleSpaces": 32,
+      "indexSampleOperators": 15,
+      "hubUrl": "https://www.coworkingview.com/en/coworking/madrid",
+      "districts": [
+        {
+          "name": "Tetuán",
+          "spaces": 11
+        },
+        {
+          "name": "Salamanca",
+          "spaces": 7
+        },
+        {
+          "name": "Hortaleza",
+          "spaces": 6
+        },
+        {
+          "name": "Chamartín",
+          "spaces": 6
+        },
+        {
+          "name": "Chamberí",
+          "spaces": 6
+        },
+        {
+          "name": "Arganzuela",
+          "spaces": 4
+        },
+        {
+          "name": "Centro",
+          "spaces": 4
+        },
+        {
+          "name": "Retiro",
+          "spaces": 3
+        },
+        {
+          "name": "Fuencarral-El Pardo",
+          "spaces": 3
+        },
+        {
+          "name": "Moncloa-Aravaca",
+          "spaces": 3
+        },
+        {
+          "name": "Barajas",
+          "spaces": 2
+        },
+        {
+          "name": "San Blas-Canillejas",
+          "spaces": 1
+        },
+        {
+          "name": "District not recorded",
+          "spaces": 4
+        },
+        {
+          "name": "Tres Cantos (outside the municipality)",
+          "spaces": 1
+        },
+        {
+          "name": "Rivas-Vaciamadrid (outside the municipality)",
+          "spaces": 1
+        },
+        {
+          "name": "Alcobendas (outside the municipality)",
+          "spaces": 1
+        },
+        {
+          "name": "Pozuelo de Alarcón (outside the municipality)",
+          "spaces": 1
+        }
+      ]
+    },
+    {
+      "city": "Hamburg",
+      "slug": "hamburg",
+      "listedSpaces": 37,
+      "operators": 15,
+      "indexSampleSpaces": 17,
+      "indexSampleOperators": 8,
+      "hubUrl": "https://www.coworkingview.com/en/coworking/hamburg",
+      "districts": [
+        {
+          "name": "Hamburg-Mitte (including HafenCity, Altstadt and Neustadt)",
+          "spaces": 29
+        },
+        {
+          "name": "Hamburg-Nord",
+          "spaces": 4
+        },
+        {
+          "name": "Altona",
+          "spaces": 2
+        },
+        {
+          "name": "Bergedorf",
+          "spaces": 1
+        },
+        {
+          "name": "Harburg",
+          "spaces": 1
+        }
+      ]
+    }
+  ]
+}
