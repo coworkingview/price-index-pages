@@ -1,0 +1,558 @@
+{
+  "source": "CoworkingView Price Index",
+  "sourceUrl": "https://www.coworkingview.com/en/tools/price-index",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "accessed": "2026-11-25",
+  "generatedAtIndex": "2026-11-25T10:17:51.112Z",
+  "generatedAtIndexEuropeBerlin": "2026-11-25T11:17:51+01:00",
+  "currency": "EUR",
+  "unit": "per desk per month",
+  "districtMedianRule": "A district median is published only when at least three spaces in that district have a published monthly price for that desk type.",
+  "citation": "Source: CoworkingView Price Index (https://www.coworkingview.com/en/tools/price-index), as of November 2026. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Aggregated figures only; no endorsement by CoworkingView or any operator is implied.",
+  "berlin": {
+    "listedSpaces": 144,
+    "operators": 71,
+    "cityOfficial": {
+      "flex_desk": {
+        "median": 209,
+        "sampleSize": 75,
+        "propertyCount": 69,
+        "operatorCount": 39
+      },
+      "fix_desk": {
+        "median": 310,
+        "sampleSize": 62,
+        "propertyCount": 58,
+        "operatorCount": 38
+      }
+    },
+    "districts": [
+      {
+        "district": "Mitte",
+        "listedSpaces": 66,
+        "flex_desk": {
+          "median": 260,
+          "sampleSize": 22,
+          "propertyCount": 20
+        },
+        "fix_desk": {
+          "median": 347,
+          "sampleSize": 20,
+          "propertyCount": 19
+        }
+      },
+      {
+        "district": "Friedrichshain-Kreuzberg",
+        "listedSpaces": 29,
+        "flex_desk": {
+          "median": 209,
+          "sampleSize": 20,
+          "propertyCount": 18
+        },
+        "fix_desk": {
+          "median": 299,
+          "sampleSize": 16,
+          "propertyCount": 15
+        }
+      },
+      {
+        "district": "Pankow",
+        "listedSpaces": 19,
+        "flex_desk": {
+          "median": 209,
+          "sampleSize": 12,
+          "propertyCount": 12
+        },
+        "fix_desk": {
+          "median": 299,
+          "sampleSize": 9,
+          "propertyCount": 9
+        }
+      },
+      {
+        "district": "Charlottenburg-Wilmersdorf",
+        "listedSpaces": 11,
+        "flex_desk": {
+          "median": 199,
+          "sampleSize": 4,
+          "propertyCount": 4
+        },
+        "fix_desk": {
+          "median": 299,
+          "sampleSize": 3,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Neukölln",
+        "listedSpaces": 6,
+        "flex_desk": {
+          "median": 199,
+          "sampleSize": 7,
+          "propertyCount": 6
+        },
+        "fix_desk": {
+          "median": 330,
+          "sampleSize": 5,
+          "propertyCount": 5
+        }
+      },
+      {
+        "district": "Tempelhof-Schöneberg",
+        "listedSpaces": 6,
+        "flex_desk": {
+          "median": 199,
+          "sampleSize": 5,
+          "propertyCount": 5
+        },
+        "fix_desk": {
+          "median": 269.5,
+          "sampleSize": 4,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Treptow-Köpenick",
+        "listedSpaces": 4,
+        "flex_desk": {
+          "median": 249,
+          "sampleSize": 3,
+          "propertyCount": 3
+        },
+        "fix_desk": {
+          "median": 399,
+          "sampleSize": 3,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Reinickendorf",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "Spandau",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 1,
+          "propertyCount": 1,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 2,
+          "propertyCount": 1,
+          "published": false
+        }
+      },
+      {
+        "district": "Unassigned",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      }
+    ]
+  },
+  "madrid": {
+    "listedSpaces": 64,
+    "operators": 21,
+    "cityOfficial": {
+      "flex_desk": {
+        "median": 175,
+        "sampleSize": 31,
+        "propertyCount": 19,
+        "operatorCount": 10
+      },
+      "fix_desk": {
+        "median": 215,
+        "sampleSize": 26,
+        "propertyCount": 24,
+        "operatorCount": 13
+      }
+    },
+    "districts": [
+      {
+        "district": "Tetuán",
+        "listedSpaces": 11,
+        "flex_desk": {
+          "median": 175,
+          "sampleSize": 6,
+          "propertyCount": 4
+        },
+        "fix_desk": {
+          "median": 215,
+          "sampleSize": 3,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Salamanca",
+        "listedSpaces": 7,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "Chamartín",
+        "listedSpaces": 6,
+        "flex_desk": {
+          "median": 220,
+          "sampleSize": 3,
+          "propertyCount": 3
+        },
+        "fix_desk": {
+          "median": 300,
+          "sampleSize": 5,
+          "propertyCount": 5
+        }
+      },
+      {
+        "district": "Chamberí",
+        "listedSpaces": 6,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 2,
+          "propertyCount": 2,
+          "published": false
+        },
+        "fix_desk": {
+          "median": 199,
+          "sampleSize": 3,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Hortaleza",
+        "listedSpaces": 6,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 3,
+          "propertyCount": 2,
+          "published": false
+        },
+        "fix_desk": {
+          "median": 197,
+          "sampleSize": 3,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Arganzuela",
+        "listedSpaces": 4,
+        "flex_desk": {
+          "median": 155,
+          "sampleSize": 6,
+          "propertyCount": 3
+        },
+        "fix_desk": {
+          "median": 260,
+          "sampleSize": 3,
+          "propertyCount": 3
+        }
+      },
+      {
+        "district": "Centro",
+        "listedSpaces": 4,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 4,
+          "propertyCount": 2,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 4,
+          "propertyCount": 2,
+          "published": false
+        }
+      },
+      {
+        "district": "Fuencarral-El Pardo",
+        "listedSpaces": 3,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 1,
+          "propertyCount": 1,
+          "published": false
+        }
+      },
+      {
+        "district": "Moncloa-Aravaca",
+        "listedSpaces": 3,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 5,
+          "propertyCount": 2,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 2,
+          "propertyCount": 2,
+          "published": false
+        }
+      },
+      {
+        "district": "Retiro",
+        "listedSpaces": 3,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 3,
+          "propertyCount": 2,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 1,
+          "propertyCount": 1,
+          "published": false
+        }
+      },
+      {
+        "district": "Barajas",
+        "listedSpaces": 2,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "San Blas-Canillejas",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "Unassigned",
+        "listedSpaces": 4,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "Alcobendas (outside the city)",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "Pozuelo de Alarcón (outside the city)",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 1,
+          "propertyCount": 1,
+          "published": false
+        }
+      },
+      {
+        "district": "Rivas-Vaciamadrid (outside the city)",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      },
+      {
+        "district": "Tres Cantos (outside the city)",
+        "listedSpaces": 1,
+        "flex_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        },
+        "fix_desk": {
+          "median": null,
+          "sampleSize": 0,
+          "propertyCount": 0,
+          "published": false
+        }
+      }
+    ]
+  },
+  "productTypesOfficial": {
+    "frankfurt": {
+      "listedSpaces": 23,
+      "operatorsCatalogue": 11,
+      "flex_desk": {
+        "median": 199,
+        "p25": 199,
+        "p75": 244,
+        "min": 199,
+        "max": 289,
+        "sampleSize": 3,
+        "propertyCount": 3,
+        "operatorCount": 2
+      },
+      "fix_desk": {
+        "median": 299,
+        "p25": 299,
+        "p75": 299,
+        "min": 299,
+        "max": 299,
+        "sampleSize": 2,
+        "propertyCount": 2,
+        "operatorCount": 1
+      },
+      "private_office": {
+        "median": 900,
+        "p25": 610,
+        "p75": 1100,
+        "min": 343,
+        "max": 1100,
+        "sampleSize": 4,
+        "propertyCount": 4,
+        "operatorCount": 3
+      }
+    },
+    "barcelona": {
+      "listedSpaces": 48,
+      "operatorsCatalogue": 15,
+      "flex_desk": {
+        "median": 199,
+        "p25": 160,
+        "p75": 220,
+        "min": 150,
+        "max": 278,
+        "sampleSize": 21,
+        "propertyCount": 20,
+        "operatorCount": 6
+      },
+      "fix_desk": {
+        "median": 300,
+        "p25": 236,
+        "p75": 337,
+        "min": 175,
+        "max": 380,
+        "sampleSize": 20,
+        "propertyCount": 20,
+        "operatorCount": 7
+      },
+      "private_office": {
+        "median": 295,
+        "p25": 171,
+        "p75": 399,
+        "min": 63,
+        "max": 449,
+        "sampleSize": 71,
+        "propertyCount": 21,
+        "operatorCount": 8
+      }
+    },
+    "hamburg": {
+      "listedSpaces": 37,
+      "operatorsCatalogue": 15,
+      "flex_desk": {
+        "median": 297,
+        "p25": 295,
+        "p75": 397,
+        "min": 150,
+        "max": 399,
+        "sampleSize": 10,
+        "propertyCount": 10,
+        "operatorCount": 6
+      },
+      "fix_desk": {
+        "median": 499,
+        "p25": 412,
+        "p75": 499,
+        "min": 290,
+        "max": 499,
+        "sampleSize": 8,
+        "propertyCount": 8,
+        "operatorCount": 5
+      },
+      "note": "Private-office figures for Hamburg are intentionally omitted."
+    }
+  }
+}
