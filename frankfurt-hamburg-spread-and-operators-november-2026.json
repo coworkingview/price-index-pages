@@ -1,0 +1,1088 @@
+{
+  "source": "CoworkingView Price Index",
+  "sourceUrl": "https://www.coworkingview.com/en/tools/price-index",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "accessed": "2026-11-25",
+  "generatedAtIndex": "2026-11-25T14:01:59.716Z",
+  "generatedAtIndexEuropeBerlin": "2026-11-25T15:01:59.716000+01:00",
+  "currency": "EUR",
+  "districtMedianRule": "A district median is published only when at least three spaces in that district have a published monthly price for that desk type. Medians use every published monthly list price for that desk type in the district.",
+  "citation": "Source: CoworkingView Price Index (https://www.coworkingview.com/en/tools/price-index), as of November 2026. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Aggregated figures only; no endorsement by CoworkingView or any operator is implied.",
+  "frankfurt": {
+    "listedSpaces": 23,
+    "operators": 11,
+    "comingSoonExcluded": 0,
+    "cityOfficial": {
+      "flex_desk": {
+        "median": 199,
+        "min": 199,
+        "p75": 244,
+        "max": 289,
+        "sampleSize": 3,
+        "propertyCount": 3,
+        "operatorCount": 2
+      },
+      "fix_desk": {
+        "median": 299,
+        "min": 299,
+        "p75": 299,
+        "max": 299,
+        "sampleSize": 2,
+        "propertyCount": 2,
+        "operatorCount": 1
+      }
+    },
+    "districts": [
+      {
+        "name": "Bankenviertel",
+        "listedSpaces": 5,
+        "operators": 4,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            289
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Westend",
+        "listedSpaces": 5,
+        "operators": 3,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Innenstadt (Frankfurt)",
+        "listedSpaces": 4,
+        "operators": 3,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            199,
+            199
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            299,
+            299
+          ]
+        }
+      },
+      {
+        "name": "Frankfurt Flughafen",
+        "listedSpaces": 2,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Niederrad",
+        "listedSpaces": 2,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Ostend",
+        "listedSpaces": 2,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Bahnhofsviertel",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Gallus",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Sachsenhausen",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      }
+    ]
+  },
+  "hamburg": {
+    "listedSpaces": 37,
+    "operators": 15,
+    "comingSoonExcluded": 0,
+    "cityOfficial": {
+      "flex_desk": {
+        "median": 297,
+        "min": 150,
+        "p75": 397,
+        "max": 399,
+        "sampleSize": 10,
+        "propertyCount": 10,
+        "operatorCount": 6
+      },
+      "fix_desk": {
+        "median": 499,
+        "min": 290,
+        "p75": 499,
+        "max": 499,
+        "sampleSize": 8,
+        "propertyCount": 8,
+        "operatorCount": 5
+      }
+    },
+    "districts": [
+      {
+        "name": "Neustadt (Hamburg-Mitte)",
+        "listedSpaces": 10,
+        "operators": 8,
+        "flex_desk": {
+          "median": 295,
+          "n_prices": 3,
+          "n_spaces": 3,
+          "published": true,
+          "amounts": [
+            150,
+            295,
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            290,
+            499
+          ]
+        }
+      },
+      {
+        "name": "HafenCity (Hamburg-Mitte)",
+        "listedSpaces": 8,
+        "operators": 7,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            295,
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            499,
+            499
+          ]
+        }
+      },
+      {
+        "name": "Altstadt (Hamburg-Mitte)",
+        "listedSpaces": 7,
+        "operators": 7,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            199,
+            299
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            299,
+            449
+          ]
+        }
+      },
+      {
+        "name": "Hamburg-Mitte",
+        "listedSpaces": 4,
+        "operators": 4,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            390
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Hamburg-Nord",
+        "listedSpaces": 4,
+        "operators": 3,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            499
+          ]
+        }
+      },
+      {
+        "name": "Altona",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Altona-Altstadt (Hamburg-Altona)",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            295
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            499
+          ]
+        }
+      },
+      {
+        "name": "Bergedorf",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Harburg",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      }
+    ]
+  },
+  "priceSpreadOfficial": {
+    "unit": "per desk per month",
+    "note": "Official Price Index byType min, median and p75 for flex desks and fixed desks. Hamburg private-office figures are not included. Average figures are omitted.",
+    "cities": [
+      {
+        "city": "Berlin",
+        "slug": "berlin",
+        "listedCount": 144,
+        "indexPropertyCount": 88,
+        "indexOperatorCount": 49,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/berlin",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/berlin",
+        "flex_desk": {
+          "median": 209,
+          "min": 80,
+          "p75": 285,
+          "max": 750,
+          "sampleSize": 75,
+          "propertyCount": 69,
+          "operatorCount": 39
+        },
+        "fix_desk": {
+          "median": 310,
+          "min": 160,
+          "p75": 414,
+          "max": 680,
+          "sampleSize": 62,
+          "propertyCount": 58,
+          "operatorCount": 38
+        }
+      },
+      {
+        "city": "Munich",
+        "slug": "munich",
+        "listedCount": 33,
+        "indexPropertyCount": 12,
+        "indexOperatorCount": 7,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/munich",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/munich",
+        "flex_desk": {
+          "median": 399,
+          "min": 199,
+          "p75": 399,
+          "max": 399,
+          "sampleSize": 11,
+          "propertyCount": 11,
+          "operatorCount": 6
+        },
+        "fix_desk": {
+          "median": 499,
+          "min": 299,
+          "p75": 549,
+          "max": 549,
+          "sampleSize": 8,
+          "propertyCount": 8,
+          "operatorCount": 4
+        }
+      },
+      {
+        "city": "Hamburg",
+        "slug": "hamburg",
+        "listedCount": 37,
+        "indexPropertyCount": 17,
+        "indexOperatorCount": 8,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/hamburg",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/hamburg",
+        "flex_desk": {
+          "median": 297,
+          "min": 150,
+          "p75": 397,
+          "max": 399,
+          "sampleSize": 10,
+          "propertyCount": 10,
+          "operatorCount": 6
+        },
+        "fix_desk": {
+          "median": 499,
+          "min": 290,
+          "p75": 499,
+          "max": 499,
+          "sampleSize": 8,
+          "propertyCount": 8,
+          "operatorCount": 5
+        }
+      },
+      {
+        "city": "Frankfurt",
+        "slug": "frankfurt",
+        "listedCount": 23,
+        "indexPropertyCount": 5,
+        "indexOperatorCount": 4,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/frankfurt",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/frankfurt",
+        "flex_desk": {
+          "median": 199,
+          "min": 199,
+          "p75": 244,
+          "max": 289,
+          "sampleSize": 3,
+          "propertyCount": 3,
+          "operatorCount": 2
+        },
+        "fix_desk": {
+          "median": 299,
+          "min": 299,
+          "p75": 299,
+          "max": 299,
+          "sampleSize": 2,
+          "propertyCount": 2,
+          "operatorCount": 1
+        }
+      },
+      {
+        "city": "Madrid",
+        "slug": "madrid",
+        "listedCount": 64,
+        "indexPropertyCount": 32,
+        "indexOperatorCount": 15,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/madrid",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/madrid",
+        "flex_desk": {
+          "median": 175,
+          "min": 85,
+          "p75": 199,
+          "max": 220,
+          "sampleSize": 31,
+          "propertyCount": 19,
+          "operatorCount": 10
+        },
+        "fix_desk": {
+          "median": 215,
+          "min": 150,
+          "p75": 280,
+          "max": 360,
+          "sampleSize": 26,
+          "propertyCount": 24,
+          "operatorCount": 13
+        }
+      },
+      {
+        "city": "Barcelona",
+        "slug": "barcelona",
+        "listedCount": 48,
+        "indexPropertyCount": 33,
+        "indexOperatorCount": 12,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/barcelona",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/barcelona",
+        "flex_desk": {
+          "median": 199,
+          "min": 150,
+          "p75": 220,
+          "max": 278,
+          "sampleSize": 21,
+          "propertyCount": 20,
+          "operatorCount": 6
+        },
+        "fix_desk": {
+          "median": 300,
+          "min": 175,
+          "p75": 337,
+          "max": 380,
+          "sampleSize": 20,
+          "propertyCount": 20,
+          "operatorCount": 7
+        }
+      },
+      {
+        "city": "Málaga",
+        "slug": "malaga",
+        "listedCount": 16,
+        "indexPropertyCount": 11,
+        "indexOperatorCount": 8,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/malaga",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/malaga",
+        "flex_desk": {
+          "median": 150,
+          "min": 90,
+          "p75": 213,
+          "max": 390,
+          "sampleSize": 15,
+          "propertyCount": 9,
+          "operatorCount": 7
+        },
+        "fix_desk": {
+          "median": 199,
+          "min": 179,
+          "p75": 299,
+          "max": 350,
+          "sampleSize": 11,
+          "propertyCount": 11,
+          "operatorCount": 8
+        }
+      },
+      {
+        "city": "Valencia",
+        "slug": "valencia",
+        "listedCount": 12,
+        "indexPropertyCount": 9,
+        "indexOperatorCount": 8,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/valencia",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/valencia",
+        "flex_desk": {
+          "median": 175,
+          "min": 170,
+          "p75": 186,
+          "max": 220,
+          "sampleSize": 4,
+          "propertyCount": 4,
+          "operatorCount": 3
+        },
+        "fix_desk": {
+          "median": 220,
+          "min": 150,
+          "p75": 300,
+          "max": 450,
+          "sampleSize": 13,
+          "propertyCount": 7,
+          "operatorCount": 6
+        }
+      },
+      {
+        "city": "Cologne",
+        "slug": "cologne",
+        "listedCount": 15,
+        "indexPropertyCount": 5,
+        "indexOperatorCount": 4,
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/cologne",
+        "hubUrl": "https://www.coworkingview.com/en/coworking/cologne",
+        "flex_desk": {
+          "median": 199,
+          "min": 199,
+          "p75": 249,
+          "max": 299,
+          "sampleSize": 3,
+          "propertyCount": 3,
+          "operatorCount": 2
+        },
+        "fix_desk": {
+          "median": 299,
+          "min": 299,
+          "p75": 374,
+          "max": 449,
+          "sampleSize": 3,
+          "propertyCount": 3,
+          "operatorCount": 2
+        }
+      }
+    ]
+  },
+  "operatorConcentrationCatalogue": {
+    "note": "Live catalogue listing counts on 25 November 2026 (Europe/Berlin), not the priced Price Index sample. Shares are of listed spaces, not of revenue or priced desks.",
+    "cities": [
+      {
+        "city": "Berlin",
+        "slug": "berlin",
+        "listedSpaces": 144,
+        "operators": 62,
+        "largestOperators": [
+          "St. Oberholz"
+        ],
+        "largestListings": 14,
+        "largestShare": 0.09722222222222222,
+        "top3Listings": 32,
+        "top3Share": 0.2222222222222222,
+        "singleSiteOperators": 38,
+        "topOperators": [
+          {
+            "name": "St. Oberholz",
+            "slug": "sankt-oberholz",
+            "listings": 14
+          },
+          {
+            "name": "Mindspace",
+            "slug": "mindspace",
+            "listings": 9
+          },
+          {
+            "name": "THE GATE Berlin",
+            "slug": "the-gate-berlin",
+            "listings": 9
+          },
+          {
+            "name": "WeWork",
+            "slug": "wework",
+            "listings": 8
+          },
+          {
+            "name": "Scaling Spaces",
+            "slug": "scaling-spaces",
+            "listings": 8
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/berlin",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/berlin"
+      },
+      {
+        "city": "Munich",
+        "slug": "munich",
+        "listedSpaces": 33,
+        "operators": 13,
+        "largestOperators": [
+          "Regus"
+        ],
+        "largestListings": 12,
+        "largestShare": 0.36363636363636365,
+        "top3Listings": 19,
+        "top3Share": 0.5757575757575758,
+        "singleSiteOperators": 7,
+        "topOperators": [
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 12
+          },
+          {
+            "name": "1000 Satellites",
+            "slug": "1000-satellites",
+            "listings": 4
+          },
+          {
+            "name": "Scaling Spaces",
+            "slug": "scaling-spaces",
+            "listings": 3
+          },
+          {
+            "name": "Mindspace",
+            "slug": "mindspace",
+            "listings": 3
+          },
+          {
+            "name": "CONTORA Office Solutions",
+            "slug": "contora",
+            "listings": 2
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/munich",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/munich"
+      },
+      {
+        "city": "Hamburg",
+        "slug": "hamburg",
+        "listedSpaces": 37,
+        "operators": 15,
+        "largestOperators": [
+          "Regus"
+        ],
+        "largestListings": 10,
+        "largestShare": 0.2702702702702703,
+        "top3Listings": 19,
+        "top3Share": 0.5135135135135135,
+        "singleSiteOperators": 7,
+        "topOperators": [
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 10
+          },
+          {
+            "name": "ABC Workspaces",
+            "slug": "abc-workspace",
+            "listings": 5
+          },
+          {
+            "name": "MindRoom collective",
+            "slug": "mindroom-collective",
+            "listings": 4
+          },
+          {
+            "name": "Engel & Völkers Work Edition",
+            "slug": "engel-voelkers-work-edition",
+            "listings": 3
+          },
+          {
+            "name": "WeWork",
+            "slug": "wework",
+            "listings": 2
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/hamburg",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/hamburg"
+      },
+      {
+        "city": "Frankfurt",
+        "slug": "frankfurt",
+        "listedSpaces": 23,
+        "operators": 11,
+        "largestOperators": [
+          "Regus"
+        ],
+        "largestListings": 6,
+        "largestShare": 0.2608695652173913,
+        "top3Listings": 12,
+        "top3Share": 0.5217391304347826,
+        "singleSiteOperators": 5,
+        "topOperators": [
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 6
+          },
+          {
+            "name": "Spaces",
+            "slug": "spaces",
+            "listings": 3
+          },
+          {
+            "name": "CONTORA Office Solutions",
+            "slug": "contora",
+            "listings": 3
+          },
+          {
+            "name": "HQ",
+            "slug": "hq",
+            "listings": 2
+          },
+          {
+            "name": "Office Club",
+            "slug": "office-club",
+            "listings": 2
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/frankfurt",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/frankfurt"
+      },
+      {
+        "city": "Madrid",
+        "slug": "madrid",
+        "listedSpaces": 64,
+        "operators": 20,
+        "largestOperators": [
+          "Regus",
+          "Spaces"
+        ],
+        "largestListings": 12,
+        "largestShare": 0.1875,
+        "top3Listings": 30,
+        "top3Share": 0.46875,
+        "singleSiteOperators": 7,
+        "topOperators": [
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 12
+          },
+          {
+            "name": "Spaces",
+            "slug": "spaces",
+            "listings": 12
+          },
+          {
+            "name": "Monday",
+            "slug": "monday",
+            "listings": 6
+          },
+          {
+            "name": "Cink Coworking",
+            "slug": "cink-coworking",
+            "listings": 5
+          },
+          {
+            "name": "Atrium Business Center",
+            "slug": "atrium-business-center",
+            "listings": 4
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/madrid",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/madrid"
+      },
+      {
+        "city": "Barcelona",
+        "slug": "barcelona",
+        "listedSpaces": 48,
+        "operators": 15,
+        "largestOperators": [
+          "CREC Coworking"
+        ],
+        "largestListings": 9,
+        "largestShare": 0.1875,
+        "top3Listings": 24,
+        "top3Share": 0.5,
+        "singleSiteOperators": 8,
+        "topOperators": [
+          {
+            "name": "CREC Coworking",
+            "slug": "crec-coworking",
+            "listings": 9
+          },
+          {
+            "name": "Aticco",
+            "slug": "aticco",
+            "listings": 8
+          },
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 7
+          },
+          {
+            "name": "Monday",
+            "slug": "monday",
+            "listings": 6
+          },
+          {
+            "name": "Spaces",
+            "slug": "spaces",
+            "listings": 5
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/barcelona",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/barcelona"
+      },
+      {
+        "city": "Málaga",
+        "slug": "malaga",
+        "listedSpaces": 16,
+        "operators": 10,
+        "largestOperators": [
+          "La Aduana Coworking",
+          "Marlife Business Hub"
+        ],
+        "largestListings": 3,
+        "largestShare": 0.1875,
+        "top3Listings": 8,
+        "top3Share": 0.5,
+        "singleSiteOperators": 6,
+        "topOperators": [
+          {
+            "name": "La Aduana Coworking",
+            "slug": "la-aduana-coworking",
+            "listings": 3
+          },
+          {
+            "name": "Marlife Business Hub",
+            "slug": "marlife-business-hub",
+            "listings": 3
+          },
+          {
+            "name": "Innovation Campus",
+            "slug": "innovation-campus",
+            "listings": 2
+          },
+          {
+            "name": "Monday",
+            "slug": "monday",
+            "listings": 2
+          },
+          {
+            "name": "Momentum",
+            "slug": "momentum",
+            "listings": 1
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/malaga",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/malaga"
+      },
+      {
+        "city": "Valencia",
+        "slug": "valencia",
+        "listedSpaces": 12,
+        "operators": 9,
+        "largestOperators": [
+          "Regus"
+        ],
+        "largestListings": 3,
+        "largestShare": 0.25,
+        "top3Listings": 6,
+        "top3Share": 0.5,
+        "singleSiteOperators": 7,
+        "topOperators": [
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 3
+          },
+          {
+            "name": "Cowork Up",
+            "slug": "cowork-up",
+            "listings": 2
+          },
+          {
+            "name": "Espacio MERKATO",
+            "slug": "espacio-merkato",
+            "listings": 1
+          },
+          {
+            "name": "Coworking Boix7",
+            "slug": "coworking-boix7",
+            "listings": 1
+          },
+          {
+            "name": "ExpresHub",
+            "slug": "expreshub",
+            "listings": 1
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/valencia",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/valencia"
+      },
+      {
+        "city": "Cologne",
+        "slug": "cologne",
+        "listedSpaces": 15,
+        "operators": 8,
+        "largestOperators": [
+          "Regus"
+        ],
+        "largestListings": 5,
+        "largestShare": 0.3333333333333333,
+        "top3Listings": 9,
+        "top3Share": 0.6,
+        "singleSiteOperators": 4,
+        "topOperators": [
+          {
+            "name": "Regus",
+            "slug": "regus",
+            "listings": 5
+          },
+          {
+            "name": "Office Club",
+            "slug": "office-club",
+            "listings": 2
+          },
+          {
+            "name": "Signature",
+            "slug": "signature",
+            "listings": 2
+          },
+          {
+            "name": "HQ",
+            "slug": "hq",
+            "listings": 2
+          },
+          {
+            "name": "Scaling Spaces",
+            "slug": "scaling-spaces",
+            "listings": 1
+          }
+        ],
+        "hubUrl": "https://www.coworkingview.com/en/coworking/cologne",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/cologne"
+      }
+    ]
+  }
+}
