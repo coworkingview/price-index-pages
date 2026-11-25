@@ -1,0 +1,715 @@
+{
+  "source": "CoworkingView Price Index",
+  "sourceUrl": "https://www.coworkingview.com/en/tools/price-index",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "accessed": "2026-11-25",
+  "generatedAtIndex": "2026-11-25T13:23:28.338Z",
+  "generatedAtIndexEuropeBerlin": "2026-11-25T14:23:28.338000+01:00",
+  "currency": "EUR",
+  "districtMedianRule": "A district median is published only when at least three spaces in that district have a published monthly price for that desk type. Medians use every published monthly list price for that desk type in the district, not a single entry price per building.",
+  "citation": "Source: CoworkingView Price Index (https://www.coworkingview.com/en/tools/price-index), as of November 2026. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Aggregated figures only; no endorsement by CoworkingView or any operator is implied.",
+  "munich": {
+    "listedSpaces": 33,
+    "operators": 13,
+    "comingSoonExcluded": 0,
+    "cityOfficial": {
+      "flex_desk": {
+        "median": 399,
+        "sampleSize": 11,
+        "propertyCount": 11,
+        "operatorCount": 6,
+        "min": 199,
+        "max": 399,
+        "p25": 310,
+        "p75": 399,
+        "avg": 346
+      },
+      "fix_desk": {
+        "median": 499,
+        "sampleSize": 8,
+        "propertyCount": 8,
+        "operatorCount": 4,
+        "min": 299,
+        "max": 549,
+        "p25": 474,
+        "p75": 549
+      }
+    },
+    "districts": [
+      {
+        "name": "Altstadt-Lehel",
+        "listedSpaces": 12,
+        "operators": 8,
+        "flex_desk": {
+          "median": 299.5,
+          "n_prices": 4,
+          "n_spaces": 4,
+          "published": true,
+          "amounts": [
+            199,
+            200,
+            399,
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": 549,
+          "n_prices": 3,
+          "n_spaces": 3,
+          "published": true,
+          "amounts": [
+            299,
+            549,
+            549
+          ]
+        }
+      },
+      {
+        "name": "Maxvorstadt",
+        "listedSpaces": 4,
+        "operators": 4,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            250
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            400
+          ]
+        }
+      },
+      {
+        "name": "Laim",
+        "listedSpaces": 3,
+        "operators": 3,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            369,
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "No district",
+        "listedSpaces": 3,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Berg am Laim",
+        "listedSpaces": 2,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Ramersdorf-Perlach",
+        "listedSpaces": 2,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            549
+          ]
+        }
+      },
+      {
+        "name": "Allach-Untermenzing",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            499
+          ]
+        }
+      },
+      {
+        "name": "Bogenhausen",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Milbertshofen-Am Hart",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Obergiesing-Fasangarten",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            499
+          ]
+        }
+      },
+      {
+        "name": "Schwabing-Freimann",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Schwanthalerhöhe",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      },
+      {
+        "name": "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+        "listedSpaces": 1,
+        "operators": 1,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            399
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            499
+          ]
+        }
+      }
+    ]
+  },
+  "barcelona": {
+    "listedSpaces": 48,
+    "operators": 15,
+    "comingSoonExcluded": 0,
+    "cityOfficial": {
+      "flex_desk": {
+        "median": 199,
+        "sampleSize": 21,
+        "propertyCount": 20,
+        "operatorCount": 6,
+        "min": 150,
+        "max": 278,
+        "p25": 160,
+        "p75": 220,
+        "avg": 201
+      },
+      "fix_desk": {
+        "median": 300,
+        "sampleSize": 20,
+        "propertyCount": 20,
+        "operatorCount": 7,
+        "min": 175,
+        "max": 380,
+        "p25": 236,
+        "p75": 337,
+        "avg": 281
+      }
+    },
+    "districts": [
+      {
+        "name": "Eixample",
+        "listedSpaces": 15,
+        "operators": 6,
+        "flex_desk": {
+          "median": 220,
+          "n_prices": 9,
+          "n_spaces": 9,
+          "published": true,
+          "amounts": [
+            160,
+            160,
+            160,
+            199,
+            220,
+            220,
+            220,
+            220,
+            250
+          ]
+        },
+        "fix_desk": {
+          "median": 300.0,
+          "n_prices": 8,
+          "n_spaces": 8,
+          "published": true,
+          "amounts": [
+            175,
+            195,
+            250,
+            300,
+            300,
+            349,
+            360,
+            380
+          ]
+        }
+      },
+      {
+        "name": "Sant Martí",
+        "listedSpaces": 8,
+        "operators": 5,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            199,
+            220
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            299,
+            360
+          ]
+        }
+      },
+      {
+        "name": "Gracia",
+        "listedSpaces": 5,
+        "operators": 5,
+        "flex_desk": {
+          "median": 179.5,
+          "n_prices": 4,
+          "n_spaces": 4,
+          "published": true,
+          "amounts": [
+            160,
+            160,
+            199,
+            278.3
+          ]
+        },
+        "fix_desk": {
+          "median": 253.875,
+          "n_prices": 4,
+          "n_spaces": 4,
+          "published": true,
+          "amounts": [
+            175,
+            175,
+            332.75,
+            349
+          ]
+        }
+      },
+      {
+        "name": "Sants-Montjuïc",
+        "listedSpaces": 5,
+        "operators": 5,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 3,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            150,
+            200,
+            220
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            250,
+            260
+          ]
+        }
+      },
+      {
+        "name": "Sarrià-Sant Gervasi",
+        "listedSpaces": 5,
+        "operators": 4,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            199,
+            199
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            299
+          ]
+        }
+      },
+      {
+        "name": "Ciutat Vella",
+        "listedSpaces": 4,
+        "operators": 4,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            220
+          ]
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 2,
+          "n_spaces": 2,
+          "published": false,
+          "amounts": [
+            300,
+            330
+          ]
+        }
+      },
+      {
+        "name": "No district",
+        "listedSpaces": 4,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 1,
+          "n_spaces": 1,
+          "published": false,
+          "amounts": [
+            175
+          ]
+        }
+      },
+      {
+        "name": "Baix Llobregat (Barcelona)",
+        "listedSpaces": 2,
+        "operators": 2,
+        "flex_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        },
+        "fix_desk": {
+          "median": null,
+          "n_prices": 0,
+          "n_spaces": 0,
+          "published": false,
+          "amounts": []
+        }
+      }
+    ]
+  },
+  "dayPassAndMeetingRoomOfficial": {
+    "unitDayPass": "per day",
+    "unitMeetingRoom": "per hour",
+    "cities": [
+      {
+        "city": "Berlin",
+        "slug": "berlin",
+        "listedCount": 144,
+        "indexPropertyCount": 88,
+        "indexOperatorCount": 49,
+        "hubUrl": "https://www.coworkingview.com/en/coworking/berlin",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/berlin",
+        "dayPassPerDay": {
+          "median": 35,
+          "currency": "EUR",
+          "sampleSize": 62,
+          "propertyCount": 58,
+          "operatorCount": 29,
+          "insufficientData": false
+        },
+        "meetingRoomPerHour": {
+          "median": 39,
+          "currency": "EUR",
+          "sampleSize": 83,
+          "propertyCount": 53,
+          "operatorCount": 26,
+          "insufficientData": false
+        }
+      },
+      {
+        "city": "Munich",
+        "slug": "munich",
+        "listedCount": 33,
+        "indexPropertyCount": 12,
+        "indexOperatorCount": 7,
+        "hubUrl": "https://www.coworkingview.com/en/coworking/munich",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/munich",
+        "dayPassPerDay": {
+          "median": 45,
+          "currency": "EUR",
+          "sampleSize": 10,
+          "propertyCount": 10,
+          "operatorCount": 5,
+          "insufficientData": false
+        },
+        "meetingRoomPerHour": {
+          "median": 49,
+          "currency": "EUR",
+          "sampleSize": 9,
+          "propertyCount": 7,
+          "operatorCount": 5,
+          "insufficientData": false
+        }
+      },
+      {
+        "city": "Frankfurt",
+        "slug": "frankfurt",
+        "listedCount": 23,
+        "indexPropertyCount": 5,
+        "indexOperatorCount": 4,
+        "hubUrl": "https://www.coworkingview.com/en/coworking/frankfurt",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/frankfurt",
+        "dayPassPerDay": {
+          "median": 39,
+          "currency": "EUR",
+          "sampleSize": 5,
+          "propertyCount": 5,
+          "operatorCount": 4,
+          "insufficientData": false
+        },
+        "meetingRoomPerHour": {
+          "median": 49,
+          "currency": "EUR",
+          "sampleSize": 7,
+          "propertyCount": 5,
+          "operatorCount": 4,
+          "insufficientData": false
+        }
+      },
+      {
+        "city": "Hamburg",
+        "slug": "hamburg",
+        "listedCount": 37,
+        "indexPropertyCount": 17,
+        "indexOperatorCount": 8,
+        "hubUrl": "https://www.coworkingview.com/en/coworking/hamburg",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/hamburg",
+        "dayPassPerDay": {
+          "median": 38,
+          "currency": "EUR",
+          "sampleSize": 12,
+          "propertyCount": 10,
+          "operatorCount": 7,
+          "insufficientData": false
+        },
+        "meetingRoomPerHour": {
+          "median": 45,
+          "currency": "EUR",
+          "sampleSize": 11,
+          "propertyCount": 7,
+          "operatorCount": 5,
+          "insufficientData": false
+        }
+      },
+      {
+        "city": "Madrid",
+        "slug": "madrid",
+        "listedCount": 64,
+        "indexPropertyCount": 32,
+        "indexOperatorCount": 15,
+        "hubUrl": "https://www.coworkingview.com/en/coworking/madrid",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/madrid",
+        "dayPassPerDay": {
+          "median": 22,
+          "currency": "EUR",
+          "sampleSize": 27,
+          "propertyCount": 20,
+          "operatorCount": 10,
+          "insufficientData": false
+        },
+        "meetingRoomPerHour": {
+          "median": 27,
+          "currency": "EUR",
+          "sampleSize": 31,
+          "propertyCount": 16,
+          "operatorCount": 9,
+          "insufficientData": false
+        }
+      },
+      {
+        "city": "Barcelona",
+        "slug": "barcelona",
+        "listedCount": 48,
+        "indexPropertyCount": 33,
+        "indexOperatorCount": 12,
+        "hubUrl": "https://www.coworkingview.com/en/coworking/barcelona",
+        "indexUrl": "https://www.coworkingview.com/en/tools/price-index/barcelona",
+        "dayPassPerDay": {
+          "median": 35,
+          "currency": "EUR",
+          "sampleSize": 15,
+          "propertyCount": 14,
+          "operatorCount": 5,
+          "insufficientData": false
+        },
+        "meetingRoomPerHour": {
+          "median": 30,
+          "currency": "EUR",
+          "sampleSize": 13,
+          "propertyCount": 10,
+          "operatorCount": 5,
+          "insufficientData": false
+        }
+      }
+    ],
+    "note": "Official Price Index medians from GET /v1/market/rates and the public price-index dataset generated at the timestamp above. Hamburg private-office figures are not included."
+  }
+}
